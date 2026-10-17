@@ -1,0 +1,14 @@
+{
+  "name": "context-nudge",
+  "version": "1.1.1",
+  "description": "Asks Claude to write a compact-prep file at 300k tokens, prompts /compact or /clear at 350k, and restores the prep file after compaction. Main session and subagents. Never compacts on its own.",
+  "author": {
+    "name": "Nihaan Mohammed"
+  },
+  "license": "MIT",
+  "keywords": [
+    "context",
+    "compaction",
+    "hooks"
+  ]
+}
